@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Programming
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on anything (I am a begginer)
-- 📫 How to reach me: denissanta1999@gmail.com
+- 📫 How to reach me: denissanta401@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
