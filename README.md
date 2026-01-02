@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Denis112500
 - 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning AI development / Fine-Tuning
 - 💞️ I’m looking to collaborate on anything (I am a begginer)
 - 📫 How to reach me: denissanta401@gmail.com
 - 😄 Pronouns: he/him
