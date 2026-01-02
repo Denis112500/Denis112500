@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Denis112500
-- 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning AI development / Fine-Tuning
-- 💞️ I’m looking to collaborate on anything (I am a begginer)
-- 📫 How to reach me: denissanta401@gmail.com
+- 👀 Interests: I’m interested in Python Development and Machine Learning.
+- 🌱 Current Learning: I’m currently diving deep into AI development and LLM Fine-Tuning.
+- 💞️ Collaboration: I’m looking to collaborate on open-source AI projects (I am currently building my skills and eager to learn)
+- 📫 Contact: You can reach me at denissanta401@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
