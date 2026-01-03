@@ -32,6 +32,7 @@ I am a Computer Science student currently diving into **Python**, **AI**, and **
 
 ### 📂 Featured Projects
 * [Llama-3-Fine-Tuning](https://github.com/Denis112500/AI-Lab) - Documenting my AI learning and error fixes.
+* [java-mini-game](https://github.com/Denis112500/java-mini-game) - Java mini game project.
 * Personal Knowledge Base - A PHP tool I built to track technical solutions.
 * C# Windows Forms App - A practical look at GUI development from my university coursework.
 
