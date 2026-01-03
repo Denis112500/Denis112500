@@ -31,7 +31,7 @@ I am a Computer Science student currently diving into **Python**, **AI**, and **
 - 👨🏾‍🦯‍➡️ Note: Still very much learning,expect messy commits 🙂
 
 ### 📂 Featured Projects
-* [Llama-3-Fine-Tuning](https://github.com/Denis112500/YOUR-REPO-NAME) - Documenting my AI learning and error fixes.
+* [Llama-3-Fine-Tuning](https://github.com/Denis112500/AI-Lab) - Documenting my AI learning and error fixes.
 * Personal Knowledge Base - A PHP tool I built to track technical solutions.
 * C# Windows Forms App - A practical look at GUI development from my university coursework.
 
