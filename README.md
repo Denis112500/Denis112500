@@ -45,5 +45,5 @@ I am a Computer Science student currently diving into **Python**, **AI**, and **
 📫 **Reach me at:** denissanta401@gmail.com
 <p align="left">
 <a href="mailto:denissanta401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/santa-denis-482452322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
