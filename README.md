@@ -1,4 +1,4 @@
-# Hi, I’m Denis! 👋
+# Hi, I’m Denis!
 
 I am a Computer Science student currently diving into **Python**, **AI**, and **Linux Systems**.
 
