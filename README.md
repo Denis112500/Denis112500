@@ -28,7 +28,7 @@ I am a Computer Science student currently diving into **Python**, **AI**, and **
 -  **Custom Tools:** I built my own **PHP Knowledge Base** to document terminal commands and solve the driver issues I encountered along the way.
 -  **Collaboration:** **I am open to any type of project!** Whether it's Web Dev, Python scripts, or AI, I am eager to learn, contribute, and build my skills.
  
--  Note: Still very much learning,expect messy commits 🙂
+-  Note: Still very much learning,expect messy commits
 
 ###  Featured Projects
 * [Llama-3-Fine-Tuning](https://github.com/Denis112500/AI-Lab) - Documenting my AI learning and error fixes.
