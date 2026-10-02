@@ -2,7 +2,7 @@
 
 I am a Computer Science student currently diving into **Python**, **AI**, and **Linux Systems**.
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **University Foundation:**
 <p align="left">
@@ -21,16 +21,16 @@ I am a Computer Science student currently diving into **Python**, **AI**, and **
 
 ---
 
-### 🔭 What I'm Up To
-- 🎓 **University:** Focusing on core programming logic with **C++** and **Java**. I also build desktop applications using **C# (Windows Forms)**.
-- 🌱 **Self-Learning:** Diving deep into **Python** and **LLM Fine-Tuning** (Llama 3) using Unsloth.
-- 💻 **Hardware:** I recently migrated my AI workflow from **AMD (ROCm) to Nvidia (CUDA)** to better support for my learning.
-- 🛠️ **Custom Tools:** I built my own **PHP Knowledge Base** to document terminal commands and solve the driver issues I encountered along the way.
-- 🤝 **Collaboration:** **I am open to any type of project!** Whether it's Web Dev, Python scripts, or AI, I am eager to learn, contribute, and build my skills.
+###
+-  **University:** Focusing on core programming logic with **C++** and **Java**. I also build desktop applications using **C# (Windows Forms)**.
+-  **Self-Learning:** Diving deep into **Python** and **LLM Fine-Tuning** (Llama 3) using Unsloth.
+-  **Hardware:** I recently migrated my AI workflow from **AMD (ROCm) to Nvidia (CUDA)** to better support for my learning.
+-  **Custom Tools:** I built my own **PHP Knowledge Base** to document terminal commands and solve the driver issues I encountered along the way.
+-  **Collaboration:** **I am open to any type of project!** Whether it's Web Dev, Python scripts, or AI, I am eager to learn, contribute, and build my skills.
  
-- 👨🏾‍🦯‍➡️ Note: Still very much learning,expect messy commits 🙂
+-  Note: Still very much learning,expect messy commits 🙂
 
-### 📂 Featured Projects
+###  Featured Projects
 * [Llama-3-Fine-Tuning](https://github.com/Denis112500/AI-Lab) - Documenting my AI learning and error fixes.
 * [java-mini-game](https://github.com/Denis112500/java-mini-game) - Java mini game project.
 * Personal Knowledge Base - A PHP tool I built to track technical solutions.
@@ -38,7 +38,7 @@ I am a Computer Science student currently diving into **Python**, **AI**, and **
 
 ---
 
-### 📝 My Approach & Mentorship
+### My Approach & Mentorship
 * **Mentorship:** I want to give a huge thanks to **Flavius**, who helped me really much when I first started coding. His guidance was key to getting me into this world of programming.
 * **AI Assistance:** I use AI as a digital tutor to help explain complex theories and draft boilerplate code. This allows me to focus on understanding the core logic and solving the real-world environment challenges that AI can't fix for me.
 
