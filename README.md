@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=180&section=header&text=Denis&fontSize=56&fontColor=ffffff&desc=CS%20student%20building%20toward%20AI%2FML%20engineering&descSize=18&descAlignY=68" alt="Denis" />
+</p>
+
 # Hi, I'm Denis
 
 Final-year Computer Science student, building things in Python, Rust and Kotlin, and heading toward an **AI/ML engineering** career in Europe.
@@ -43,6 +47,7 @@ A Python TCP network monitor with its own custom protocol, built as a university
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -61,6 +66,6 @@ A Python TCP network monitor with its own custom protocol, built as a university
 
 ## Contact
 
-denissanta1999@gmail.com
+denis.devworks@gmail.com
 
 Open to collaboration on Python, AI and systems projects.
