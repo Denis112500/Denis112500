@@ -66,6 +66,6 @@ A Python TCP network monitor with its own custom protocol, built as a university
 
 ## Contact
 
-denis.devworks@gmail.com
+denis.eu.dev@gmail.com
 
 Open to collaboration on Python, AI and systems projects.
