@@ -20,7 +20,7 @@ I learn by building. Most of what's below started as "I wonder if I can make thi
 A Dynamic Island-style pill for Windows 11 that shows what's playing in YouTube Music: compact by default, springs open on hover or a new track, hides itself during fullscreen apps and when music is paused.
 **Rust · Tauri 2 · TypeScript** · released as v0.3.0
 
-### [GPT-from-scratch](https://github.com/Denis112500/gpt-from-scratch).
+### [GPT-from-scratch](https://github.com/Denis112500/gpt-from-scratch)
 A GPT-style language model implemented from scratch in PyTorch to understand how transformers work under the hood: the model architecture, the training loop and text generation.
 **Python · PyTorch**
 
